@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- ## Hallo Everyone  -->
 
 ![adjipras002-collab](img/HALLO%20EVERYONE!!%20I%20AM%20ADJI%20PRASETYO2.png)
@@ -45,3 +46,6 @@ I’m currently learning [**Laravel**](htpps://laravel.com) Framework
 ![https://instagram.com/heykhaje](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@inikhaje](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
 ##### My Github Stats
+=======
+hallo world
+>>>>>>> e25fade041518c0454434d1f709ae53eb7c260f6
