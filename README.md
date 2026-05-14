@@ -23,7 +23,7 @@ I’m currently learning [**Laravel**](htpps://laravel.com) Framework
 
 ##### skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,ts,discord,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,ts,discord,git,github,instagram,kali,linkedin)](https://skillicons.dev) 
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white" /> <img src="https://img.shields.io/badge/deepseek-1477D1?style=for-the-badge&logo=&logoColor=white" /> <img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white" /> 
 
@@ -31,5 +31,5 @@ I’m currently learning [**Laravel**](htpps://laravel.com) Framework
 
 ##### Connect with me
 
-![https://instagram.com/heykhaje](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@inikhaje](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
+![https://instagram.com/heykhaje](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@inikhaje?is_from_webapp=1&sender_device=pc](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://www.linkedin.com/in/adji-prasetyo-0558763ba/?locale=en-US](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
